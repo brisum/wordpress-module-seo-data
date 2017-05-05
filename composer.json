@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-seo-data",
+  "description": "Wordpress module seo data",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-seo-data",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\SeoData\\": "src/"
+    }
+  }
+}
